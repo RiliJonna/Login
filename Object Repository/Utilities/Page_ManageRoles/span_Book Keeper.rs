@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Book Keeper</name>
+   <tag></tag>
+   <elementGuidId>7affe723-541c-449e-ac79-f22ba32f47da</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='l2-101_2-ListItem1']/div/a/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#l2-101_2-ListItem1 > div > a > span.OSFillParent</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>c1494c3d-974f-4dc6-b601-63a2bcd7a220</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>OSFillParent</value>
+      <webElementGuid>9a84b5ff-ab40-4902-a425-1a7039f05255</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Book Keeper</value>
+      <webElementGuid>8d8cfbf4-9d7d-44a8-b56c-bdfe78df2ae9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;l2-101_2-ListItem1&quot;)/div[1]/a[1]/span[@class=&quot;OSFillParent&quot;]</value>
+      <webElementGuid>4dd0f37a-7ad8-4697-8939-26f30920d7f4</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='l2-101_2-ListItem1']/div/a/span</value>
+      <webElementGuid>49ca3f84-11b6-48ea-96a6-9057ae407f91</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Area Manager'])[1]/following::span[1]</value>
+      <webElementGuid>7a1e854a-85cd-4ff7-8030-c623c9cf7bef</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='App Admin'])[1]/following::span[2]</value>
+      <webElementGuid>658f24d0-25f9-4bca-b111-a6b7ee4cab89</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Compliance'])[1]/preceding::span[1]</value>
+      <webElementGuid>6c53f8fb-6313-4d8c-bdee-0bf7dfcd9b4d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Finance'])[1]/preceding::span[2]</value>
+      <webElementGuid>f8ffa7b3-0d1b-4f1d-9230-9a434e7b0647</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Book Keeper']/parent::*</value>
+      <webElementGuid>e70eb460-6f93-4617-8215-a0f00f5242b9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/a/span</value>
+      <webElementGuid>9bc67d3a-0b54-4350-a669-96d28b93ac48</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Book Keeper' or . = 'Book Keeper')]</value>
+      <webElementGuid>59f37411-5eb3-4dd2-8944-6b8d15aa9fce</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Manage Roles</name>
+   <tag></tag>
+   <elementGuidId>18598d05-d9ee-452d-84b6-f383a4563fda</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='b2-b6-Items']/a[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#b2-b6-Items > a.ThemeGrid_MarginGutter</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>54a047c4-867f-45cf-b934-b9dc129f3c7d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ThemeGrid_MarginGutter</value>
+      <webElementGuid>6f2ed9e0-55ca-4e59-97f1-5bee3a3c0aaa</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/STOCKSADMINSYSTEMS/ManageRoles</value>
+      <webElementGuid>c4bde456-679e-446a-be6b-6ad2dfe3b5cc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>menuitem</value>
+      <webElementGuid>68fa5115-8ea3-4291-9c62-5e82a6e37299</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>0</value>
+      <webElementGuid>7f27aecf-3770-4eaa-b0a9-69c67ccff680</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Manage Roles</value>
+      <webElementGuid>8ca4040b-e9bf-4b87-b418-92a320a734fb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;b2-b6-Items&quot;)/a[@class=&quot;ThemeGrid_MarginGutter&quot;]</value>
+      <webElementGuid>e15490e4-e4a5-4ee8-a505-11ea6d9a907a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='b2-b6-Items']/a[2]</value>
+      <webElementGuid>759a91cc-1386-47aa-a15c-4319fe443504</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Manage Roles')]</value>
+      <webElementGuid>6bd28427-708b-4439-9671-52b36c046cd1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Developers'])[1]/following::a[1]</value>
+      <webElementGuid>0c1de5b3-5b5f-4e04-a809-2c879301b3d6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Utilities'])[1]/following::a[2]</value>
+      <webElementGuid>07c1c7cf-6960-44b3-801b-f7f49983a6c2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Parameters'])[2]/preceding::a[1]</value>
+      <webElementGuid>8c45ab5d-6e07-48e9-bb71-721b312b9fc9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='User Management'])[1]/preceding::a[2]</value>
+      <webElementGuid>9ee75994-ec23-4c28-8fc0-3483c95c80c3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Manage Roles']/parent::*</value>
+      <webElementGuid>bf4a0a4a-a323-42ca-b8a1-818063ca1da0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/STOCKSADMINSYSTEMS/ManageRoles')]</value>
+      <webElementGuid>8624e0f4-726f-44b5-89b9-86b046a93705</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div/div[2]/a[2]</value>
+      <webElementGuid>910de1c6-770a-4945-89d5-40e12a182b3d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/STOCKSADMINSYSTEMS/ManageRoles' and (text() = ' Manage Roles' or . = ' Manage Roles')]</value>
+      <webElementGuid>1bb26829-acab-48e9-8f84-7c36e51be25d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

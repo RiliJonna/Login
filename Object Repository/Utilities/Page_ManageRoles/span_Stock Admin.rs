@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Stock Admin</name>
+   <tag></tag>
+   <elementGuidId>efcb5ffd-175e-4755-b552-7150e350265f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='l2-101_7-ListItem1']/div/a/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#l2-101_7-ListItem1 > div > a > span.OSFillParent</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>61663cae-81f1-469b-9922-0cc826082ccc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>OSFillParent</value>
+      <webElementGuid>9ebfdc3a-4995-476d-a58a-fcb801348542</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Stock Admin</value>
+      <webElementGuid>5b373dd9-ffff-4e42-a1bf-7dd85c42b39b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;l2-101_7-ListItem1&quot;)/div[1]/a[1]/span[@class=&quot;OSFillParent&quot;]</value>
+      <webElementGuid>a926793e-9a06-4ed2-a5b1-fe9494be0283</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='l2-101_7-ListItem1']/div/a/span</value>
+      <webElementGuid>58aa507e-739a-45cc-a94c-c8bd02e5e884</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sec Admin'])[1]/following::span[1]</value>
+      <webElementGuid>6eb51983-03fe-40f7-9c77-cbf3db61a410</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Risk'])[1]/following::span[2]</value>
+      <webElementGuid>848c262b-39d1-4b67-a672-1cf1ce6c2f38</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Transfer Stockholder'])[1]/preceding::span[2]</value>
+      <webElementGuid>46c9cdc4-769e-45b8-8834-b965a73d0ed8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Generate Stock Certificate'])[2]/preceding::span[3]</value>
+      <webElementGuid>72d50950-4c7a-4d1a-a978-04e91e5289d3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Stock Admin']/parent::*</value>
+      <webElementGuid>0b3bffd4-10eb-4b8d-983b-c4a0b0b17043</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[8]/div/a/span</value>
+      <webElementGuid>2d3bc53d-9f01-4300-876e-cdb46bde4506</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Stock Admin' or . = 'Stock Admin')]</value>
+      <webElementGuid>187e4236-9f83-4945-834c-70ce15847551</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

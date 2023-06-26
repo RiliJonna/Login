@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Sec Admin</name>
+   <tag></tag>
+   <elementGuidId>fecc6c66-31ad-4474-885d-82ed71cf9d38</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='l2-101_6-ListItem1']/div/a/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#l2-101_6-ListItem1 > div > a > span.OSFillParent</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>4a8df8b2-bc56-4e29-9242-71c1bfcda768</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>OSFillParent</value>
+      <webElementGuid>44abe674-8e08-477a-95e0-90ea539b6438</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Sec Admin</value>
+      <webElementGuid>6677aa2f-aece-4d15-8717-8f9485607960</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;l2-101_6-ListItem1&quot;)/div[1]/a[1]/span[@class=&quot;OSFillParent&quot;]</value>
+      <webElementGuid>f3be9158-be2c-400d-bb90-783ee9b1b886</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='l2-101_6-ListItem1']/div/a/span</value>
+      <webElementGuid>c7f0d96c-0441-4d88-8b94-6a9d64430775</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Risk'])[1]/following::span[1]</value>
+      <webElementGuid>e10c5ac0-1903-40cb-9cbd-31caa9f2bda1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Finance'])[1]/following::span[2]</value>
+      <webElementGuid>21a0d137-2877-443a-b131-274d46dbf5f6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Stock Admin'])[1]/preceding::span[1]</value>
+      <webElementGuid>0258b937-9df8-4391-a8c5-c0be3f5a28e4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Transfer Stockholder'])[1]/preceding::span[3]</value>
+      <webElementGuid>fc6ed672-8512-445e-8151-714fb7fa771e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Sec Admin']/parent::*</value>
+      <webElementGuid>8b8a7779-e11e-4bfe-b498-af131a10d32b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[7]/div/a/span</value>
+      <webElementGuid>6a88456a-dc98-48a0-930b-1bc7930998df</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Sec Admin' or . = 'Sec Admin')]</value>
+      <webElementGuid>9892801f-3fe9-4332-b331-e4ad8dc13d7a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

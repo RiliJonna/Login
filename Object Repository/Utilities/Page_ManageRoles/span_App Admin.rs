@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_App Admin</name>
+   <tag></tag>
+   <elementGuidId>c2915ee5-0414-4ae7-98d4-3b6921ead3f9</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='l2-101_0-ListItem1']/div/a/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>a > span.OSFillParent</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>a6950931-936b-4325-9404-7285da443de4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>OSFillParent</value>
+      <webElementGuid>9d29693d-f8a4-44a7-8016-e59c0e044d3d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>App Admin</value>
+      <webElementGuid>57d6da6d-d965-4867-9446-55fbdfa5994f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;l2-101_0-ListItem1&quot;)/div[1]/a[1]/span[@class=&quot;OSFillParent&quot;]</value>
+      <webElementGuid>48e987d2-6624-4246-a205-249fd2fab07b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='l2-101_0-ListItem1']/div/a/span</value>
+      <webElementGuid>63b2c092-0d46-4427-956b-57eaa191fe30</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Area Manager'])[1]/preceding::span[1]</value>
+      <webElementGuid>3ae43672-4e5a-4c22-9715-e2880aa11edd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Book Keeper'])[1]/preceding::span[2]</value>
+      <webElementGuid>5caf2630-e72b-485a-b839-8e7201554a4b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='App Admin']/parent::*</value>
+      <webElementGuid>4c689832-07c7-4528-945b-eee2241830fa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div/div/div/div/div/a/span</value>
+      <webElementGuid>bc861472-141a-4f11-b703-846acf127818</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'App Admin' or . = 'App Admin')]</value>
+      <webElementGuid>28e13759-0e90-42d0-a4d7-530257590745</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

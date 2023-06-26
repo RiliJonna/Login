@@ -1,3 +1,84 @@
 {
-  "brokenTestObjects" : [ ]
+  "brokenTestObjects": [
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Utilities/Page_ManageRoles/span_App Admin",
+      "brokenLocator": "//div[@id\u003d\u0027l2-101_0-ListItem1\u0027]/div/a/span",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "(.//*[normalize-space(text()) and normalize-space(.)\u003d\u0027Area Manager\u0027])[1]/preceding::span[1]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/Utilities/Page_ManageRoles/span_App Admin_neighbor.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Utilities/Page_ManageRoles/span_Area Manager",
+      "brokenLocator": "//div[@id\u003d\u0027l2-101_1-ListItem1\u0027]/div/a/span",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "(.//*[normalize-space(text()) and normalize-space(.)\u003d\u0027App Admin\u0027])[1]/following::span[1]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/Utilities/Page_ManageRoles/span_Area Manager_neighbor.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Utilities/Page_ManageRoles/span_Book Keeper",
+      "brokenLocator": "//div[@id\u003d\u0027l2-101_2-ListItem1\u0027]/div/a/span",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "(.//*[normalize-space(text()) and normalize-space(.)\u003d\u0027Area Manager\u0027])[1]/following::span[1]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/Utilities/Page_ManageRoles/span_Book Keeper_neighbor.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Utilities/Page_ManageRoles/span_Compliance",
+      "brokenLocator": "//div[@id\u003d\u0027l2-101_3-ListItem1\u0027]/div/a/span",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "(.//*[normalize-space(text()) and normalize-space(.)\u003d\u0027Book Keeper\u0027])[1]/following::span[1]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/Utilities/Page_ManageRoles/span_Compliance_neighbor.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Utilities/Page_ManageRoles/span_Finance",
+      "brokenLocator": "//div[@id\u003d\u0027l2-101_4-ListItem1\u0027]/div/a/span",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "(.//*[normalize-space(text()) and normalize-space(.)\u003d\u0027Compliance\u0027])[1]/following::span[1]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/Utilities/Page_ManageRoles/span_Finance_neighbor.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Utilities/Page_ManageRoles/span_Risk",
+      "brokenLocator": "//div[@id\u003d\u0027l2-101_5-ListItem1\u0027]/div/a/span",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "(.//*[normalize-space(text()) and normalize-space(.)\u003d\u0027Finance\u0027])[1]/following::span[1]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/Utilities/Page_ManageRoles/span_Risk_neighbor.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Utilities/Page_ManageRoles/span_Sec Admin",
+      "brokenLocator": "//div[@id\u003d\u0027l2-101_6-ListItem1\u0027]/div/a/span",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "(.//*[normalize-space(text()) and normalize-space(.)\u003d\u0027Risk\u0027])[1]/following::span[1]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/Utilities/Page_ManageRoles/span_Sec Admin_neighbor.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Utilities/Page_ManageRoles/span_Stock Admin",
+      "brokenLocator": "//div[@id\u003d\u0027l2-101_7-ListItem1\u0027]/div/a/span",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "(.//*[normalize-space(text()) and normalize-space(.)\u003d\u0027Sec Admin\u0027])[1]/following::span[1]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/Utilities/Page_ManageRoles/span_Stock Admin_neighbor.png"
+    }
+  ]
 }
